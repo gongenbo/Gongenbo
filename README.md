@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently studinging at BeiHang University as a graduate student
-- 🌱 I’m currently learning data mining, recommendation system, advertising calculation and search
+- 🔭 I’m currently studinging at Beihang University as a graduate student
+- 🌱 I’m currently learning data mining, recommender system, computational advertising and search
 - 📫 How to reach me: gongenbo@gmail.com
 <!--
 **gongenbo/gongenbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
