@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently studinging at Beihang University Software Engineering as a graduate student
+- 🔭 I’m currently studinging at XX University Software Engineering as a graduate student
 - 🌱 I’m currently learning data mining, recommender system, computational advertising and search
 - 📫 How to reach me: gongenbo@gmail.com
 <!--
